@@ -1,0 +1,10 @@
+[
+  {
+    "slug": "my-new-post",
+    "title": "My First GitHub Blog Post",
+    "date": "2025-10-19",
+    "cover": "https://images.unsplash.com/photo-1527443224154-d8f62b1b9b9e",
+    "excerpt": "Kicking off my GitHub-powered blog, rendered natively in my React portfolio.",
+    "path": "posts/2025-10-19-my-new-post.md"
+  }
+]
